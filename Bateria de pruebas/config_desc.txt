@@ -1,0 +1,16 @@
+@ salidapantalla ON
+
+@ salidafichero ON
+
+& ficherosalida fichero_codificar.txt
+
+& codifica fichero_codificar.txt
+& descodifica fichero_descodificar.txt
+
+@ gronsfeld
+@ s_des
+
+# & clave 2587
+& clave 1111011010
+
+@ traza OFF
